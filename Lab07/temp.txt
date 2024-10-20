@@ -1,0 +1,3 @@
+This is the Lab 7 documentation.
+
+Each file contains the Program inspection and the Code Debugging of the 10 code fragments given
